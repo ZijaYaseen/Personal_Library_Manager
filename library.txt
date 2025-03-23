@@ -1,0 +1,26 @@
+{
+    "Arsam Khan": {
+        "password": "12345678",
+        "books": [
+            {
+                "title": "Wo Kahani Jo Bayan Ho Gyi",
+                "author": "Arsam khan",
+                "year": 2023,
+                "genre": "null",
+                "read": false
+            }
+        ]
+    },
+    "Zija": {
+        "password": "12345678",
+        "books": [
+            {
+                "title": "zij",
+                "author": "zij",
+                "year": 1,
+                "genre": "1",
+                "read": true
+            }
+        ]
+    }
+}
