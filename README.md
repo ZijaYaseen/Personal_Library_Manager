@@ -15,7 +15,4 @@ Welcome to **Library Manager** – your fun, no-nonsense command-line buddy for 
 - **Data Persistence 💾**  
   All your data is safely stored in a JSON file (`library.txt`), so you'll never lose track of your collection.
 
-## Live Demo
-Check out the live demo and see Library Manager in action:  
-[Live Demo](https://github.com/your-username/library-manager)  
 
